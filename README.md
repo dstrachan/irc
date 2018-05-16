@@ -1,2 +1,2 @@
-# qirc
+# irc
 q/kdb+ IRC extension
